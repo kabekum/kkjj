@@ -61,6 +61,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'healthcare.wsgi.application'
+ASGI_APPLICATION = 'healthcare.wsgi.application'
 
 
 # Database
