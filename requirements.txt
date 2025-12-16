@@ -2,3 +2,4 @@ django
 djangorestframework
 markdown
 djangorestframework-simplejwt
+gunicorn==20.1.0 
